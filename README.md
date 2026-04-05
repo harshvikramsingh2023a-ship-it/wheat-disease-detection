@@ -30,21 +30,6 @@ This project is an AI-based system that detects diseases in wheat crops using im
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 Upload Interface
-
-![Upload](screenshots/screenshot1.png)
-
-### 🔹 Image Preview
-
-![Preview](screenshots/screenshot2.png)
-
-### 🔹 Prediction Output
-
-![Result](screenshots/screenshot3.png)
-
----
 
 ## ⚙️ How to Run
 
